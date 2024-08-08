@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "PabloCaicedoR"
-  site-url: "https://PabloCaicedoR.github.io/PabloCaicedoR"
-  description: "Sample Site For Dashboards"
-  repo-branch: principal
-  repo-url: "https://github.com/PabloCaicedoR/PabloCaicedoR"
